@@ -40,4 +40,18 @@ task that runs all your tests, or builds and installs the gem locally!
 
 ### LICENSE.txt
 
+Sharing your code is important, but you also want to make sure that others understand 
+how you expect your code to be used. The Choose A License setup by Github does a really 
+good job of clearly showing what expectations come with certain licesnes. Check it out 
+and make sure that you include a license in your Gemspec and the actual text of the 
+license in your project.
+
+[Choose a License](http://choosealicense.com/)
+
 ### gem-name.gemspec
+
+[Ruby Gem Specification](http://guides.rubygems.org/specification-reference/)
+
+The Gemspec file contains the information about your gem. There are a couple fields that are required 
+and a large number that are optional. Check out specification link provided above for a listing 
+of all the options. 
