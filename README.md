@@ -7,6 +7,10 @@ I have put together a list of links that I found helpful when I was creating my 
 Also, this readme acts as a topical guide to building a gem. If you have any questions, 
 please post an issue. 
 
+[Links](./links.md)
+
+[Add an Issue](https://github.com/jdmorlan/create-a-gem/issues)
+
 ## File Structure 
 
 The basic file structure for a gem is relatively simple after you have seen it a couple 
