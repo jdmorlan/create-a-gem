@@ -28,3 +28,15 @@ need something to go back to for the basics, this is it!
 
 [Source Code](https://github.com/qrush/hola)
 
+# Ruby Gems API 
+
+The Ruby Gems API can be used to setup a custom workflow for deploying or yanking 
+your gem. For example, you could setup a script to check the CI build is valid then 
+automagically upload the new version of the gem to RubyGems. There is also a gem 
+that wraps the API, so you can easily call it from Ruby land without using an HTTP 
+gem. 
+
+[Ruby Gems API Docs](http://guides.rubygems.org/rubygems-org-api/)
+
+[Ruby Gems API Gem](https://github.com/rubygems/gems)
+
